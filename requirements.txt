@@ -1,0 +1,15 @@
+dash==2.15.0
+dash-bootstrap-components==1.5.0
+Flask-Login==0.6.3
+pandas==2.2.2
+plotly==5.20.0
+dash-table==5.0.0
+xhtml2pdf==0.2.13
+Flask-Caching==2.1.0
+fpdf2
+plotly
+kaleido
+
+
+#necesitamos pip install -r requirements.txt
+#en caso de usar mas paquetes a lo largo del proyectopip freeze > requirements.txt
