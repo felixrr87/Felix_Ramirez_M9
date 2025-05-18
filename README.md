@@ -11,7 +11,7 @@ Este es un dashboard interactivo para analizar el rendimiento de jugadores en un
 - Flask-Login
 - ReportLab (para la exportación a PDF)
 
-## Instalación
+## Instalación (descarga los archivos, y en la parte del entorno virtual ya podemoste poner en la carpeta donde se encuentran y poder inicializarla)
 
 1. Clona el repositorio:
 
